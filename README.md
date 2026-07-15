@@ -1,2 +1,25 @@
-# f5b9165c-insurance-risk-client-report
-starting from a blank document every single time costs you real money. This digital template pays for itself in one use.  Ready to use immediately — open, fill in your details, done. Professional formatting tested across different screen sizes and printers.  ## What's Included  - Insurance &amp; Risk Client Reporting Dashboard — fully configured and re
+# Insurance & Risk Client Reporting Dashboard Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/5kQ7sL4eP1g04pq6fycZM2s)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/5kQ7sL4eP1g04pq6fycZM2s)
+
